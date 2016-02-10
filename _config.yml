@@ -1,0 +1,28 @@
+name: by JN
+favicon: null
+layout_spectrum: 0.27452508290298283
+typography_spectrum: 0.5987025492358953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.009221589658409357
+  lightness: 0.5765424678102136
+  saturation: 0.08301693922840059
+  rhythmicContrast: 0.9625153054948896
+purpose: []
