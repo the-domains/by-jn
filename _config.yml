@@ -1,28 +1,40 @@
-name: by JN
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.43303
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: by JN
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0
+  brandStrength: 0.5
+  lightness: 1
   brandColors:
     - '#010101'
     - '#fefefe'
     - '#2a6b00'
     - '#a8a8a6'
     - '#b69000'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.1505376
+typography_spectrum: 0.188172
+layout_spectrum: 0.8870968
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
